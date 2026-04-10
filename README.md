@@ -1,6 +1,7 @@
 # pz10
 
-<img width="1138" height="393" alt="image" src="https://github.com/user-attachments/assets/818b5c3e-1dda-40e2-8dcf-251b85b73916" />
+<img width="1268" height="445" alt="Снимок экрана 2026-04-10 140722" src="https://github.com/user-attachments/assets/39a7633a-cd66-46df-b1f4-97adac79f52c" />
+
 
 
 ## Задание 1
